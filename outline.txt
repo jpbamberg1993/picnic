@@ -1,0 +1,16 @@
+# Goal: Make Game
+# What do I want the game to be? Diet? Laundry? Pokeymon? Picinic Needs?
+# Lets say picinic needs: 
+# 	1. Create array of goods required. `
+# 	2. When the good is selected move it to a new array that can be matched. ~
+# 	3. If someone trys to select a good already being brought an error message will display.
+#	4. I also want a suggested list of similar good that could be bought.
+# Requirements: Boolean Logic, Array, Index, 
+#
+#
+#
+#
+#
+#
+#
+#
